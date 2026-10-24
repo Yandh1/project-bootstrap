@@ -1,0 +1,6 @@
+interface:
+  display_name: "Setup de proyectos"
+  short_description: "Entrevista, repositorios, agentes, Docker y RUN.js"
+  default_prompt: "Usa $project-bootstrap para comenzar un proyecto nuevo y preguntarme sus decisiones de setup."
+policy:
+  allow_implicit_invocation: true
